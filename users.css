@@ -1,0 +1,19 @@
+.post{
+    max-width:1400px;
+    margin-left: 5%;
+    line-height: 1cm;
+    background-color: bisque;
+    padding: 30px;
+    margin-bottom: 30px;
+    border:2px solid rgb(248, 248, 248);
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px black;
+}
+h2{
+    text-align:center;
+    margin-top: 3%;
+
+}
+h2 u{
+    font-size: 30px;
+}

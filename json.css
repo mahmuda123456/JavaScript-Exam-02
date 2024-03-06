@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background-color:beige;
+}
+.pro{
+    border-bottom: 5px solid purple;
+    width:800px;
+    margin-left: 30%;
+    font-size: 20px;
+    line-height: 1cm;
+}
+
+.pro p{
+    font-size: 30px;
+    color:  purple;
+}
+h1{
+    color:rgb(162, 102, 218);
+    text-align: center;
+    margin-top: 3%;
+
+}
